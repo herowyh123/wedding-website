@@ -244,7 +244,7 @@
     }
 
     footer .social-share {
-        display:flex;
+        display: none;
     }
 
     footer .footer-links {
