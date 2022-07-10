@@ -194,10 +194,10 @@ $(document).ready(function () {
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            //end: new Date('Nov 29, 2017 00:00'),
+            end: new Date('Aug 20, 2022 16:00'),
 
             // Event Address
-            address: 'The Landmark, Marylebone London',
+            address: 'The Landmark, 222 Marylebone Rd, London NW1 6JQ',
 
             // Event Description
             description: "We can't wait to see you on our big day!"
